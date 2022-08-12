@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>  &nbsp
-<img src="https://img.shields.io/badge/React(Native)-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
+<img src="https://img.shields.io/badge/React-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-7870DB?style=flat-square&logo=linux&logoColor=white"> &nbsp
