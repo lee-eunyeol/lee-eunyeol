@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>  &nbsp
 <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=white"/></a>  &nbsp
 <img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=flat-square&logo=Amazon SQS&logoColor=white"/></a>  &nbsp
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>  &nbsp
 </p>
 
 <h5>Communications</h5>
